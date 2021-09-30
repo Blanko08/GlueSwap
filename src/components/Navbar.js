@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 
 class Navbar extends Component {
     render() {
@@ -11,7 +10,7 @@ class Navbar extends Component {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Token Version Swap
+                    Glue Swap
                 </a>
                 <ul className="navbar-nav px-3">
                     <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">

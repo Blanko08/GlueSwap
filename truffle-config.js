@@ -37,8 +37,5 @@ module.exports = {
         runs: 200
       }
     }
-  },
-  plugins: [
-    'truffle-contract-size'
-  ]
+  }
 }
